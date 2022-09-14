@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "queue": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "xlocbuf": "cpp",
+        "xlocmon": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "iomanip": "cpp",
+        "iterator": "cpp",
+        "random": "cpp",
+        "xlocnum": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "xutility": "cpp"
+    }
+}

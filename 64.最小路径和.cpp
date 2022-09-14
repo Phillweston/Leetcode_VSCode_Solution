@@ -21,6 +21,7 @@ public:
                 else grid[i][j] += min(grid[i - 1][j], grid[i][j - 1]);
             }
         }
+        return grid[grid.size() - 1][grid[0].size() - 1];
     }
 };
 // @lc code=end
